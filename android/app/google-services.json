@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "296760837840",
+    "project_id": "purpoza-7cc87",
+    "storage_bucket": "purpoza-7cc87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296760837840:android:f947cd307c9a0cbf96c0d5",
+        "android_client_info": {
+          "package_name": "com.example.purpoza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296760837840-1ip3f3cf27omik83t3k7lpdech4th6ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.purpoza",
+            "certificate_hash": "48e06eac5699fbd3cef6d47212bd140460f2df4d"
+          }
+        },
+        {
+          "client_id": "296760837840-87laa0oh044c3cs474k1pb8va5dlt0gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0jftXxBmw8kiQygW6nQqwAw4568rPCzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296760837840-87laa0oh044c3cs474k1pb8va5dlt0gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
